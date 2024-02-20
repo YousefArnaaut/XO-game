@@ -1,0 +1,2 @@
+
+void human( char *square );

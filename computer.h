@@ -1,0 +1,2 @@
+
+void computer( char *square );
